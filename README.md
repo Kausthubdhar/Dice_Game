@@ -1,6 +1,6 @@
---> The game is played between two players rolling the dice.
---> The objective of the game is to score a high dice number then the other!!
---> The player with the highest score wins the round !!
---> Hope you like the game!! It's done with simple HTML - CSS - JavaScript
---> This project was made as a part of my learnings from Web Development.
---> Thanks for visiting my repository!! and have a great day.
+--> The game is played between two players rolling the dice.  
+--> The game's objective is to score a higher dice number than the other!!  
+--> The player with the highest score wins the round !!  
+--> Hope you like the game!! It's done with simple HTML - CSS - JavaScript  
+--> This project was made as a part of my learnings from Web Development.  
+--> Thanks for visiting my repository!! and have a great day.  
